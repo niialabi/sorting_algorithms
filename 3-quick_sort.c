@@ -53,11 +53,10 @@ int lomuto_part(int *array, size_t size, int left, int right)
 
 /**
  * lomu_sort - Through recursion implement the quicksort.
- * @array: Array of integers 
+ * @array: Array of integers
  * @size: Size of the array.
  * @left: Start index of the array to order.
  * @right: End index of the array to order.
- 
  */
 void lomu_sort(int *array, size_t size, int left, int right)
 {
